@@ -13,6 +13,10 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
+# Language code : https://support.google.com/googleplay/android-developer/table/4419860?hl=en
+#
+
 
 """Google Cloud Speech API sample that demonstrates word time offsets with language change option.
 Example usage:
